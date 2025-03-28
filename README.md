@@ -2,6 +2,11 @@
 submission to IIT Roorkee X peerhub ai/ml competition
 - problem statement:2
 
+  ![landing page](https://github.com/user-attachments/assets/a3e53d72-71d3-4a8b-a1d1-66c799f99172)
+  ![landing page](https://github.com/user-attachments/assets/7396f994-975a-41e8-97bc-5feb514d123a)
+  ![image](https://github.com/user-attachments/assets/aba9156b-01ee-4624-b821-9a4ab1fb929d)
+
+
 # poshan
 submission to AI/ML Multi-Track Competition By PeerHub x CIG IIT Roorkee
 round 3 health_track_chatbot
